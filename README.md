@@ -6,4 +6,4 @@ This repository contains a static presentation website for the **Tetris 3D Multi
 
 ## Demo
 
-The presentation site is available at: (Tetris-3D-Multiplayer-Presentation)[https://lupusludit.github.io/Tetris-3D-Multiplayer-Presentation/]
+The presentation site is available at: [Tetris-3D-Multiplayer-Presentation](https://lupusludit.github.io/Tetris-3D-Multiplayer-Presentation/)
