@@ -46,9 +46,7 @@
     "technologies_text": "Project is implemented in the Unity game engine and programmed in C#, while some necessary components (such as the matchmaking API) are written in Python. The used models were created using Blender. The architecture is modular, allowing separation of gameplay mechanics, visual representation, and network communication. Multiplayer functionality was implemented using the Mirror library.",
 
     "future": "Future Development",
-    "future_text": "The project is designed to allow further expansion without major changes to the existing architecture. Future improvements may include additional game modes, leaderboards for top players, or a mobile version of the game.",
-
-    "footer": "© 2026 Lupusludit"
+    "future_text": "The project is designed to allow further expansion without major changes to the existing architecture. Future improvements may include additional game modes, leaderboards for top players, or a mobile version of the game."
   },
 
   "cz": {
@@ -98,8 +96,6 @@
     "technologies_text": "Projekt je implementován v herním enginu Unity a je naprogramován v jazyce C#, přičemž některé nutné části (jako například matchmaking API) byly napsány v jazyce Python. Používané modely byly vytvořeny pomocí nástroje Blender. Architektura je modulární, takže bylo možné oddělit herní mechaniky, vizuální reprezentaci a síťovou komunikaci. Multiplayerová funkcionalita byla implementována s pomocí knihovny Mirror.",
 
     "future": "Budoucí vývoj",
-    "future_text": "Projekt je navržen tak, aby umožňoval další rozšiřování bez zásadních zásahů do stávající architektury. V budoucnu lze uvažovat například o přidání dalších herních režimů, žebříčků nejlepších hráčů či o vytvoření mobilní verze hry.",
-
-    "footer": "© 2026 Lupusludit"
+    "future_text": "Projekt je navržen tak, aby umožňoval další rozšiřování bez zásadních zásahů do stávající architektury. V budoucnu lze uvažovat například o přidání dalších herních režimů, žebříčků nejlepších hráčů či o vytvoření mobilní verze hry."
   }
 }
